@@ -1,2 +1,3 @@
-# business-decision-research
-Data analyst project from DQLab
+# DQLab Project
+
+This project was made after studying in DQLab for Data Analytics.
